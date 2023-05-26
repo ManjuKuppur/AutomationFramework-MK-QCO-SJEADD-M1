@@ -15,6 +15,8 @@ public class ReadDataFromCmdLine {
 		
 		String PVALUE = System.getProperty("passward");
 		System.out.println(PVALUE);
+		
+		System.out.println("Browser");
 	}
 
 }
